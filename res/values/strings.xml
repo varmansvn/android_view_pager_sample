@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ViewPagerSample</string>
+    <string name="menu_settings">Settings</string>
+    <string name="mytext">Hello World!</string>
+    <string name="mybutton">Hello World Button</string>
+    
+</resources>
